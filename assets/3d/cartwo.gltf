@@ -1,0 +1,983 @@
+{
+    "accessors": {
+        "accessor_242": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 11376,
+            "type": "SCALAR"
+        },
+        "accessor_245": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 22752,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 903,
+            "type": "SCALAR"
+        },
+        "accessor_248": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 24558,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1530,
+            "type": "SCALAR"
+        },
+        "accessor_251": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 27618,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1248,
+            "type": "SCALAR"
+        },
+        "accessor_254": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 30114,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12672,
+            "type": "SCALAR"
+        },
+        "accessor_257": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 55458,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6726,
+            "type": "SCALAR"
+        },
+        "accessor_260": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 68910,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 360,
+            "type": "SCALAR"
+        },
+        "accessor_263": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 69630,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 318,
+            "type": "SCALAR"
+        },
+        "accessor_266": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 70266,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 192,
+            "type": "SCALAR"
+        },
+        "accessor_269": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 70650,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 48,
+            "type": "SCALAR"
+        },
+        "accessor_272": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 70746,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 54,
+            "type": "SCALAR"
+        },
+        "accessor_275": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 70854,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 2139,
+            "type": "SCALAR"
+        },
+        "accessor_278": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 75132,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 2043,
+            "type": "SCALAR"
+        },
+        "accessor_281": {
+            "bufferView": "bufferView_289",
+            "byteOffset": 79218,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 315,
+            "type": "SCALAR"
+        },
+        "accessor_283": {
+            "bufferView": "bufferView_290",
+            "byteOffset": 0,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 39924,
+            "max": [
+                1.06821,
+                2.53296,
+                1.52345
+            ],
+            "min": [
+                -1.06821,
+                -2.49821,
+                -0.00170607
+            ],
+            "type": "VEC3"
+        },
+        "accessor_285": {
+            "bufferView": "bufferView_290",
+            "byteOffset": 479088,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 39924,
+            "max": [
+                1,
+                1,
+                1
+            ],
+            "min": [
+                -1,
+                -0.999974,
+                -1
+            ],
+            "type": "VEC3"
+        },
+        "accessor_287": {
+            "bufferView": "bufferView_290",
+            "byteOffset": 958176,
+            "byteStride": 8,
+            "componentType": 5126,
+            "count": 39924,
+            "max": [
+                42.0556,
+                98.7978
+            ],
+            "min": [
+                -42.0556,
+                -98.7228
+            ],
+            "type": "VEC2"
+        }
+    },
+    "animations": {},
+    "asset": {
+        "generator": "collada2gltf@d0bbe4ce1ac0dea2efee7bb5a4d1b9e3345c3efe",
+        "premultipliedAlpha": true,
+        "profile": "WebGL 1.0.2",
+        "version": 0.8
+    },
+    "bufferViews": {
+        "bufferView_289": {
+            "buffer": "\\Code\\collada2gltfwin64\\cartwo",
+            "byteLength": 79848,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        "bufferView_290": {
+            "buffer": "\\Code\\collada2gltfwin64\\cartwo",
+            "byteLength": 1277568,
+            "byteOffset": 79848,
+            "target": 34962
+        }
+    },
+    "buffers": {
+        "\\Code\\collada2gltfwin64\\cartwo": {
+            "byteLength": 1357416,
+            "type": "arraybuffer",
+            "uri": "\\Code\\collada2gltfwin64\\cartwo.bin"
+        }
+    },
+    "materials": {
+        "Black_Plastic_Body_Trim-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.015686,
+                        0.015686,
+                        0.015686,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "Black_Plastic_Body_Trim"
+        },
+        "Front_Grille-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.015686,
+                        0.015686,
+                        0.015686,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "Front_Grille"
+        },
+        "Grey_Plastic_Body_Trim-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.505882,
+                        0.505882,
+                        0.505882,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "Grey_Plastic_Body_Trim"
+        },
+        "Headlights-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "Headlights"
+        },
+        "Indicator_Lights-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.886,
+                        0.486,
+                        0.016,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "Indicator_Lights"
+        },
+        "License_Plate_Back-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.75,
+                        0.75,
+                        0.75,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "License_Plate_Back"
+        },
+        "License_Plate_Front-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.75,
+                        0.75,
+                        0.75,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "License_Plate_Front"
+        },
+        "Tires-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.015686,
+                        0.015686,
+                        0.015686,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "Tires"
+        },
+        "Vehicle_Body-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.8,
+                        0.1,
+                        0,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "Vehicle_Body"
+        },
+        "Vehicle_Interior_Geometry-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.439216,
+                        0.439216,
+                        0.439216,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "Vehicle_Interior_Geometry"
+        },
+        "Wheels-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.808,
+                        0.824,
+                        0.839,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "Wheels"
+        },
+        "Windows_Glass-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.776,
+                        0.827,
+                        0.769,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0.78
+                }
+            },
+            "name": "Windows_Glass"
+        },
+        "break_lights-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.87451,
+                        0.015686,
+                        0.015686,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "break_lights"
+        },
+        "chrome-fx": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.808,
+                        0.824,
+                        0.839,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 1024,
+                    "specular": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "transparency": 0
+                }
+            },
+            "name": "chrome"
+        }
+    },
+    "meshes": {
+        "bmw7-lib": {
+            "name": "bmw7Mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_242",
+                    "material": "Vehicle_Body-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_245",
+                    "material": "Front_Grille-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_248",
+                    "material": "Grey_Plastic_Body_Trim-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_251",
+                    "material": "Black_Plastic_Body_Trim-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_254",
+                    "material": "Wheels-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_257",
+                    "material": "Tires-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_260",
+                    "material": "Windows_Glass-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_263",
+                    "material": "Headlights-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_266",
+                    "material": "Indicator_Lights-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_269",
+                    "material": "License_Plate_Front-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_272",
+                    "material": "License_Plate_Back-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_275",
+                    "material": "chrome-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_278",
+                    "material": "Vehicle_Interior_Geometry-fx",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_285",
+                        "POSITION": "accessor_283",
+                        "TEXCOORD_0": "accessor_287"
+                    },
+                    "indices": "accessor_281",
+                    "material": "break_lights-fx",
+                    "primitive": 4
+                }
+            ]
+        }
+    },
+    "nodes": {
+        "bmw7": {
+            "children": [],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                -1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                8.636e-007,
+                0,
+                0,
+                1
+            ],
+            "meshes": [
+                "bmw7-lib"
+            ],
+            "name": "bmw7"
+        }
+    },
+    "programs": {
+        "program_0": {
+            "attributes": [
+                "a_normal",
+                "a_position"
+            ],
+            "fragmentShader": "\\Code\\collada2gltfwin64\\cartwo0FS",
+            "vertexShader": "\\Code\\collada2gltfwin64\\cartwo0VS"
+        }
+    },
+    "scene": "defaultScene",
+    "scenes": {
+        "defaultScene": {
+            "nodes": [
+                "bmw7"
+            ]
+        }
+    },
+    "shaders": {
+        "\\Code\\collada2gltfwin64\\cartwo0FS": {
+            "type": 35632,
+            "uri": "\\Code\\collada2gltfwin64\\cartwo0FS.glsl"
+        },
+        "\\Code\\collada2gltfwin64\\cartwo0VS": {
+            "type": 35633,
+            "uri": "\\Code\\collada2gltfwin64\\cartwo0VS.glsl"
+        }
+    },
+    "skins": {},
+    "techniques": {
+        "technique0": {
+            "parameters": {
+                "ambient": {
+                    "type": 35666
+                },
+                "diffuse": {
+                    "type": 35666
+                },
+                "emission": {
+                    "type": 35666
+                },
+                "modelViewMatrix": {
+                    "semantic": "MODELVIEW",
+                    "type": 35676
+                },
+                "normal": {
+                    "semantic": "NORMAL",
+                    "type": 35665
+                },
+                "normalMatrix": {
+                    "semantic": "MODELVIEWINVERSETRANSPOSE",
+                    "type": 35675
+                },
+                "position": {
+                    "semantic": "POSITION",
+                    "type": 35665
+                },
+                "projectionMatrix": {
+                    "semantic": "PROJECTION",
+                    "type": 35676
+                },
+                "shininess": {
+                    "type": 5126
+                },
+                "specular": {
+                    "type": 35666
+                },
+                "transparency": {
+                    "type": 5126
+                }
+            },
+            "pass": "defaultPass",
+            "passes": {
+                "defaultPass": {
+                    "details": {
+                        "commonProfile": {
+                            "extras": {
+                                "doubleSided": false
+                            },
+                            "lightingModel": "Phong",
+                            "parameters": [
+                                "ambient",
+                                "diffuse",
+                                "emission",
+                                "modelViewMatrix",
+                                "normalMatrix",
+                                "projectionMatrix",
+                                "shininess",
+                                "specular",
+                                "transparency"
+                            ]
+                        },
+                        "type": "COLLADA-1.4.1/commonProfile"
+                    },
+                    "instanceProgram": {
+                        "attributes": {
+                            "a_normal": "normal",
+                            "a_position": "position"
+                        },
+                        "program": "program_0",
+                        "uniforms": {
+                            "u_ambient": "ambient",
+                            "u_diffuse": "diffuse",
+                            "u_emission": "emission",
+                            "u_modelViewMatrix": "modelViewMatrix",
+                            "u_normalMatrix": "normalMatrix",
+                            "u_projectionMatrix": "projectionMatrix",
+                            "u_shininess": "shininess",
+                            "u_specular": "specular",
+                            "u_transparency": "transparency"
+                        }
+                    },
+                    "states": {
+                        "enable": [
+                            2884,
+                            2929,
+                            3042
+                        ],
+                        "functions": {
+                            "blendEquationSeparate": [
+                                32774,
+                                32774
+                            ],
+                            "blendFuncSeparate": [
+                                1,
+                                771,
+                                1,
+                                771
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
